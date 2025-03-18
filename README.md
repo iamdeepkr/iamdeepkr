@@ -1,6 +1,6 @@
 <!-- 🚀 Typing Effect -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7B801&center=true&vCenter=true&width=700&lines=Hello!+I'm+Deepak+%F0%9F%9A%80;Full-Stack+Developer+|+Open+Source+Contributor;Let's+Build+Something+Awesome!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=F7B801&center=true&vCenter=true&width=700&lines=Hello!+I'm+Deepak+%F0%9F%9A%80;A+Passionate+Full-Stack+Developer;Building+Awesome+Projects!;Exploring+New+Tech+Everyday!"/>
 </h1>
 
 <!-- 🔥 GIF Banner -->
@@ -10,11 +10,12 @@
 
 ---
 
-## 🌟 **Who Am I?**
+## 🌟 **About Me**
 - 🔥 **Full-Stack Developer** | Laravel | Spring Boot | Java | PHP  
-- 🚀 **Open Source Contributor** & Problem Solver  
-- 🎯 **Tech Enthusiast Exploring AI & ML**  
-- 📚 Always **learning, building, and creating something awesome!**  
+- 🚀 **Tech Enthusiast Exploring AI & ML**  
+- 💡 **Building Scalable & Secure Applications**  
+- 🏆 **Open Source Contributor & Problem Solver**  
+- 🎯 **Always Learning & Creating!**  
 
 ---
 
@@ -59,14 +60,7 @@
 
 ---
 
-## 🎮 **3D Contribution Snake Game**
-<p align="center">
-  <img src="https://github.com/iamdeepkr/iamdeepkr/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Graph">
-</p>
-
----
-
-## 🚀 **Featured Projects**
+## 🏗️ **Latest Projects**
 <div align="center">
   <table>
     <tr>
@@ -106,6 +100,22 @@
 
 ---
 
+## 🎮 **3D Contribution Snake Game**
+<p align="center">
+  <img src="https://github.com/iamdeepkr/iamdeepkr/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Graph">
+</p>
+
+---
+
+## 🚀 **More Fun Stats**
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamdeepkr&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iamdeepkr&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iamdeepkr&theme=radical" />
+</p>
+
+---
+
 ## 🌍 **Connect With Me**
 <p align="center">
   <a href="https://github.com/iamdeepkr">
@@ -121,7 +131,21 @@
 
 ---
 
-## 🎯 **How to Set This Up?**
-1. **Create a repository** named `iamdeepkr`
-2. **Add a `README.md` file** and **paste this code**
-3. **Enable GitHub Actions** for **3D 
+## 🔥 **How to Use This?**
+1. **Create a new repository** named `iamdeepkr`
+2. **Add a `README.md` file** and paste this code
+3. **Enable GitHub Actions** for **3D Snake Contributions**
+4. **Commit & Push** and **watch your profile come to life!** 🚀
+
+---
+
+## 🚀 **Why This is the Most Interactive Profile?**
+✅ **🎨 Stunning GIFs & Animated Icons**  
+✅ **🐍 3D Contribution Snake & Typing Effect**  
+✅ **📊 Live GitHub Stats, Streaks & Languages**  
+✅ **🏆 Dynamic Trophy Wall with Achievements**  
+✅ **🖼️ Project Showcase with Hover Effects**  
+✅ **📡 Fun Widgets (Weather, Jokes, Quotes, Memes)**  
+✅ **🔗 Clickable Buttons & Stylish UI**  
+
+🚀 **Want More Customizations?** Let me know! 🔥🔥🔥
