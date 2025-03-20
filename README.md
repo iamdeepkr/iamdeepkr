@@ -1,55 +1,100 @@
-### Hi there, I'm Deepak! 👋
+## 🌟 WELCOME TO MY UNIVERSE! I'M DEEPAK 👨‍💻🚀
 
-![Profile Views](https://komarev.com/ghpvc/?username=iamdeepkr&label=Profile%20Views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=iamdeepkr&label=🚀%20Profile%20Views&color=blue&style=for-the-badge)
 
-I am a **Software Developer** from India 🇮🇳, passionate about building dynamic web applications and scalable backend systems. I love coding in PHP, Java, and JavaScript, and I enjoy solving real-world problems with technology.
+```bash
+$ whoami
+🦸‍♂️ Full-Stack Developer | 🚀 Code Alchemist | ⚡ System Architect
+```
 
-### 🚀 About Me:
-- 🔭 **Currently working as:** Project Manager (Software Development & IAAS Project)
-- 🎓 **Education:** B.Tech in Computer Science & Engineering (78%)
-- 💼 **Experience:** Developing applications using Laravel, Spring Boot, PHP, JavaScript, MySQL, and Bootstrap
-- 🌱 **Learning:** DevOps, Microservices, Cloud Technologies
-- 💬 **Ask me about:** Web Development, Backend Architecture, Database Optimization
-- 📫 **How to reach me:** iamdeepkr@gmail.com
+💡 Passionate about **building** scalable systems, **breaking** limits, and **optimizing** every line of code. I specialize in **PHP, Java, JavaScript, Laravel, Spring Boot**, and architecting high-performance web applications.
 
 ---
 
-### 🛠️ Tech Stack:
+## 🎨 MY DIGITAL ARTIFACTS
 
-**Languages & Frameworks:**  
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
+![GitHub Skyline](https://skyline.github.com/iamdeepkr/2023/animation.svg)
+
+---
+
+## 🚀 TECH STACK
+
+### 🏆 Languages & Frameworks:
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
-**Database & Tools:**  
+### 🛠️ Tools & Databases:
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-### 📈 GitHub Stats:
+## 📊 GITHUB STATS: MY BATTLEFIELD
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamdeepkr&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamdeepkr&layout=compact&theme=radical)
+<table>
+<tr>
+<td>
+  <img src="https://github-readme-stats.vercel.app/api?username=iamdeepkr&show_icons=true&theme=tokyonight" />
+</td>
+<td>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamdeepkr&theme=tokyonight" />
+</td>
+</tr>
+</table>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamdeepkr&layout=compact&theme=tokyonight)
+
+### 🏆 GitHub Trophy Showcase:
+![Trophy](https://github-profile-trophy.vercel.app/?username=iamdeepkr&theme=radical&margin-w=15)
 
 ---
 
-### 📌 Featured Projects:
+## 🔥 FEATURED PROJECTS
 
-🔹 **[School Management System](https://github.com/iamdeepkr/school-management)** - A complete school ERP system with student, teacher, and admin panels.  
-🔹 **[Ecommerce User Side](https://github.com/iamdeepkr/ecommerce-user)** - A user-friendly ecommerce frontend with authentication and order management.  
-🔹 **[Vehicle Tracking System](https://github.com/iamdeepkr/vehicle-tracking)** - A real-time tracking system with geofencing and reporting.  
-🔹 **[Employee Payroll System](https://github.com/iamdeepkr/payroll-system)** - A payroll management system for automating salary calculations.  
+🚀 **[School Management System](https://github.com/iamdeepkr/school-management)** - A full-featured school ERP system.  
+🛒 **[Ecommerce User Side](https://github.com/iamdeepkr/ecommerce-user)** - A powerful and scalable ecommerce solution.  
+🚗 **[Vehicle Tracking System](https://github.com/iamdeepkr/vehicle-tracking)** - Real-time geofencing and tracking.  
+💰 **[Employee Payroll System](https://github.com/iamdeepkr/payroll-system)** - Automating payroll management seamlessly.  
+
+📌 **Explore More:** [My Repositories](https://github.com/iamdeepkr?tab=repositories)
 
 ---
 
-### 🌍 Connect With Me:
+## 🎯 BEYOND CODING
+
+- 🏆 **Competitive Programmer**: LeetCode, CodeChef, HackerRank
+- 📝 **Tech Blogger**: Sharing knowledge on Medium & Dev.to
+- 🔥 **Open Source Contributor**: Making software better
+- ☁️ **Exploring Cloud & DevOps**: AWS, Kubernetes, Terraform
+
+---
+
+## 🎭 FUN WIDGETS & LIVE STATUS
+
+**👨‍💻 Currently Coding:**  
+![Coding](https://github-readme-activity-graph.cyclic.app/graph?username=iamdeepkr&theme=react-dark)
+
+**🎵 Now Playing:**  
+[![Spotify](https://novatorem-iamdeepkr.vercel.app/api/spotify)](https://open.spotify.com/user/iamdeepkr)
+
+---
+
+## 🤝 CONNECT WITH ME
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iamdeepkr)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/iamdeepkr)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamdeepkr)
 
-🚀 *Let's build something amazing together!*
+---
+
+💀 **Fun Fact:** I don’t just write code, I **engineer digital revolutions**! 😎
+
+🔥 *Let’s innovate and build the future together!* 🚀
