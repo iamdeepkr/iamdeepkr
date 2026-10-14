@@ -1,6 +1,6 @@
  <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:09090B,100:27272A&height=240&section=header&text=DEEPAK%20KUMAR&fontSize=56&fontColor=F5D78E&fontAlignY=42&desc=SENIOR%20DEVELOPER%20%7C%20PHP%20%7C%20LARAVEL&descSize=15&descColor=E4E4E7&descAlignY=63&animation=fadeIn" alt="Deepak Kumar"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:6D28D9,100:06B6D4&height=280&section=header&text=DEEPAK%20KUMAR&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=BACKEND%20ENGINEER%20%7C%20PHP%20%7C%20LARAVEL%20%7C%20REST%20APIS&descSize=14&descAlignY=60&animation=fadeIn" alt="Deepak Kumar"/>
 
 <a href="https://iamdeepkr.github.io/"><img src="https://img.shields.io/badge/PORTFOLIO-Explore-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 <a href="https://www.linkedin.com/in/iamdeepkr"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
