@@ -1,47 +1,53 @@
  <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&text=DEEPAK%20KUMAR&fontSize=58&fontColor=ffffff&color=0:0f172a,50:312e81,100:7c3aed&stroke=8b5cf6&strokeWidth=1&animation=fadeIn&desc=SOFTWARE%20ENGINEER%20%7C%20BACKEND%20%7C%20API%20INTEGRATION&descSize=14&descAlignY=72" alt="Deepak Kumar developer banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,35:312E81,70:6D28D9,100:0EA5E9&height=240&section=header&text=DEEPAK%20KUMAR&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Senior%20Developer%20%7C%20PHP%20%7C%20Laravel%20%7C%20REST%20APIs&descSize=16&descAlignY=59&animation=fadeIn" alt="Deepak Kumar profile banner"/>
 
-<a href="https://iamdeepkr.github.io/"><img src="https://img.shields.io/badge/PORTFOLIO-Explore-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/iamdeepkr"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:deepakkrsharma998@gmail.com"><img src="https://img.shields.io/badge/CONTACT-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://iamdeepkr.github.io/"><img src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/iamdeepkr"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:deepakkrsharma998@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=Senior+Developer+%40+Sigma+eSolution;PHP+%7C+Laravel+%7C+Slim+Framework;REST+APIs+%7C+MySQL+%7C+System+Integration;Turning+complex+problems+into+practical+solutions" alt="Animated developer introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=750&lines=Senior+Developer+%40+Sigma+eSolution;PHP+%7C+Laravel+%7C+Slim+Framework;REST+APIs+%7C+MySQL+%7C+System+Integration;Building+Reliable+Enterprise+Applications" alt="Animated developer tagline"/>
 
-<img src="https://komarev.com/ghpvc/?username=iamdeepkr&style=for-the-badge&color=7C3AED&label=PROFILE+VISITS" alt="Profile visits"/>
+<img src="https://komarev.com/ghpvc/?username=iamdeepkr&style=flat-square&color=7C3AED&label=PROFILE+VISITORS" alt="Profile visitors"/>
 
 </div>
 
 ---
 
-## ◈ ABOUT ME
+<div align="center">
 
-> **Engineering reliable software. Connecting systems. Solving real-world problems.**
+## `01` — ABOUT ME
 
-I'm **Deepak Kumar**, a Senior Developer at Sigma eSolution Pvt. Ltd. in Ranchi, India. I develop backend-driven web applications, enterprise management systems, and API integrations that connect software with real-world operations.
+### Engineering software. Connecting systems. Solving problems.
 
-My work spans application development, database design, vehicle verification systems, reporting, and hardware-software integration. I value maintainable code, practical engineering, and dependable solutions.
+</div>
+
+Hi, I'm **Deepak Kumar**, a Senior Developer at **Sigma eSolution Pvt. Ltd.**, based in Ranchi, India.
+
+I specialize in backend development, enterprise web applications, REST API integration, and database-driven systems. My work also involves connecting web applications with vehicle identification and inspection technologies, including RFID/UHF, ANPR, and UVSS.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**⌘ What I Build**
+#### ⚡ What I Build
 
 - Enterprise web applications
 - RESTful APIs and backend services
 - Database-driven management systems
-- Vehicle verification and access-control workflows
+- Vehicle verification workflows
+- Reporting and synchronization tools
 
 </td>
 <td width="50%" valign="top">
 
-**◎ What I Focus On**
+#### 🎯 What I Focus On
 
-- Reliable application architecture
-- Database optimization and synchronization
+- Clean, maintainable code
+- Database optimization
 - API and hardware integration
-- Production troubleshooting and performance
+- Application reliability
+- Production troubleshooting
 
 </td>
 </tr>
@@ -49,33 +55,62 @@ My work spans application development, database design, vehicle verification sys
 
 ---
 
-## ◈ TECH STACK
-
 <div align="center">
 
-**BACKEND ENGINEERING**
+## `02` — TECHNOLOGY STACK
 
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql&theme=dark" alt="PHP, Laravel, MySQL"/>
+*Technologies I use to build and maintain software.*
 
-**FRONTEND & INTERFACE**
+### Backend & Database
 
-<img src="https://skillicons.dev/icons?i=js,jquery,html,css,bootstrap&theme=dark" alt="JavaScript, jQuery, HTML, CSS, Bootstrap"/>
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql&theme=dark" alt="PHP Laravel MySQL"/>
 
-**DEVELOPMENT TOOLS**
+### Frontend Development
 
-<img src="https://skillicons.dev/icons?i=git,github,linux,postman&theme=dark" alt="Git, GitHub, Linux, Postman"/>
+<img src="https://skillicons.dev/icons?i=js,jquery,html,css,bootstrap&theme=dark" alt="JavaScript jQuery HTML CSS Bootstrap"/>
+
+### Tools & Environment
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,postman&theme=dark" alt="Git GitHub Linux Postman"/>
 
 </div>
 
-<div align="center">
-
-`PHP` · `Laravel` · `Slim Framework` · `MySQL` · `MariaDB` · `JavaScript` · `jQuery` · `AJAX` · `REST APIs` · `JSON` · `RFID/UHF` · `ANPR` · `UVSS`
-
-</div>
+<table>
+<tr>
+<td><strong>Languages</strong></td>
+<td>PHP, JavaScript, SQL, HTML5, CSS3</td>
+</tr>
+<tr>
+<td><strong>Frameworks</strong></td>
+<td>Laravel, Slim Framework, Bootstrap, jQuery</td>
+</tr>
+<tr>
+<td><strong>Databases</strong></td>
+<td>MySQL, MariaDB</td>
+</tr>
+<tr>
+<td><strong>API Technologies</strong></td>
+<td>REST APIs, JSON, AJAX, API integration</td>
+</tr>
+<tr>
+<td><strong>System Integration</strong></td>
+<td>RFID/UHF, ANPR, UVSS, vehicle validation</td>
+</tr>
+<tr>
+<td><strong>Tools</strong></td>
+<td>Git, GitHub, Apache, XAMPP, Linux, Postman</td>
+</tr>
+</table>
 
 ---
 
-## ◈ SELECTED PROJECTS
+<div align="center">
+
+## `03` — FEATURED PROJECTS
+
+*Enterprise applications and real-world system integrations.*
+
+</div>
 
 <table>
 <tr>
@@ -83,22 +118,28 @@ My work spans application development, database design, vehicle verification sys
 
 ### 🏢 Visitor Management System
 
-**Registration · Approval · Access Control**
+A web-based visitor registration and access management solution.
 
-A web-based system for visitor registration, approval workflows, pass generation, image management, and reporting.
+- Visitor registration and approval
+- Pass and ID card generation
+- Image capture and reporting
+- Local and central database synchronization
 
-`PHP` `MySQL` `JavaScript` `REST API`
+**Stack:** PHP · MySQL · JavaScript · REST APIs
 
 </td>
 <td width="50%" valign="top">
 
 ### 🚘 ANPR Integration
 
-**Vehicle Recognition · Validation**
+Vehicle number-plate validation and automated entry workflow.
 
-Integrates number-plate data with vehicle validation workflows, PASS/FAIL decisions, boom barriers, and transaction reporting.
+- Vehicle data validation
+- PASS/FAIL decision processing
+- Boom barrier integration
+- Transaction monitoring and reporting
 
-`PHP` `MySQL` `API Integration`
+**Stack:** PHP · MySQL · REST APIs
 
 </td>
 </tr>
@@ -107,22 +148,28 @@ Integrates number-plate data with vehicle validation workflows, PASS/FAIL decisi
 
 ### 🔍 UVSS Integration
 
-**Vehicle Inspection · Data Synchronization**
+Vehicle inspection data processing and synchronization.
 
-Vehicle validation APIs, transaction processing, image handling, synchronization, and reporting.
+- REST API-based validation
+- Transaction synchronization
+- Vehicle image handling
+- Database-driven reporting
 
-`PHP` `Slim` `MySQL` `JSON`
+**Stack:** PHP · Slim Framework · MySQL · JSON
 
 </td>
 <td width="50%" valign="top">
 
 ### 📡 RFID / UHF Integration
 
-**Identification · Entry Management**
+Device integration for vehicle identification and access control.
 
-Integrates RFID/UHF devices with vehicle identification and access-control workflows.
+- RFID/UHF device integration
+- Vehicle identification workflows
+- Access validation
+- Data monitoring and reporting
 
-`PHP` `MySQL` `REST APIs`
+**Stack:** PHP · MySQL · API Integration
 
 </td>
 </tr>
@@ -131,22 +178,27 @@ Integrates RFID/UHF devices with vehicle identification and access-control workf
 
 ### 🚚 Vehicle Tracking System
 
-**Vehicle Data · Search · Reporting**
+Vehicle information management and reporting workflows.
 
-Database-driven vehicle information management with search, filtering, and reporting features.
+- Vehicle records and search
+- Data filtering
+- Database-backed reports
 
-`PHP` `MySQL` `JavaScript`
+**Stack:** PHP · MySQL · JavaScript
 
 </td>
 <td width="50%" valign="top">
 
-### ⚙️ Enterprise Management Applications
+### ⚙️ Enterprise Management Systems
 
-**Business Workflows · Operations**
+Business applications for operational processes.
 
-Applications supporting production planning, inventory, equipment management, and maintenance workflows.
+- Production and order management
+- Inventory and equipment workflows
+- Maintenance requests
+- Operational reporting
 
-`PHP` `MySQL` `Bootstrap`
+**Stack:** PHP · MySQL · Bootstrap
 
 </td>
 </tr>
@@ -154,71 +206,116 @@ Applications supporting production planning, inventory, equipment management, an
 
 <div align="center">
 
-<a href="https://github.com/iamdeepkr?tab=repositories"><img src="https://img.shields.io/badge/VIEW_ALL_PROJECTS-181717?style=for-the-badge&logo=github&logoColor=white" alt="View all projects"/></a>
+<a href="https://github.com/iamdeepkr?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/></a>
 
 </div>
 
 ---
-
-## ◈ GITHUB ANALYTICS
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%" align="center" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api?username=iamdeepkr&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&hide_rank=true&include_all_commits=true&card_width=400" width="400" height="180" alt="GitHub Statistics"/>
-      </td>
-      <td width="50%" align="center" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamdeepkr&layout=compact&theme=tokyonight&hide_border=true&hide_title=true&card_width=400&langs_count=5" width="400" height="180" alt="Top Languages"/>
-      </td>
-    </tr>
-  </table>
 
-  <br/>
+## `04` — GITHUB ANALYTICS
 
-  <img src="https://streak-stats.demolab.com?user=iamdeepkr&theme=tokyonight&hide_border=true" width="80%" alt="GitHub Contribution Streak"/>
+*An overview of my public GitHub activity.*
+
 </div>
 
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
 
+<img src="https://github-readme-stats.vercel.app/api?username=iamdeepkr&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&card_width=420&include_all_commits=true" width="100%" alt="GitHub statistics"/>
+
+</td>
+<td width="50%" align="center" valign="top">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamdeepkr&layout=compact&theme=tokyonight&hide_border=true&hide_title=true&card_width=420&langs_count=5" width="100%" alt="Top programming languages"/>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=iamdeepkr&theme=tokyonight&hide_border=true&card_width=800" width="100%" alt="GitHub contribution streak"/>
+
+</div>
+
+> Analytics are provided by external services and may occasionally be unavailable. Language statistics reflect public repository contents, not necessarily overall professional experience.
 
 ---
 
-## ◈ EXPERIENCE
+<div align="center">
 
-**Senior Developer** · Sigma eSolution Pvt. Ltd.  
-`JUL 2025 — PRESENT`
+## `05` — PROFESSIONAL JOURNEY
 
-Backend development, enterprise applications, REST API integration, vehicle systems, database synchronization, and production troubleshooting.
+</div>
 
-**Developer** · Sigma eSolution Pvt. Ltd.  
-`JUL 2022 — JUN 2025`
+<table>
+<tr>
+<td width="25%" valign="top">
 
-PHP web development, database-driven modules, dashboards, reports, frontend integration, testing, and deployment.
+**JUL 2025 — PRESENT**
 
----
+### Senior Developer
 
-## ◈ EDUCATION
+</td>
+<td width="75%" valign="top">
 
-🎓 **B.Tech in Computer Science**  
+**Sigma eSolution Pvt. Ltd. · Ranchi**
+
+- Enterprise web application development and maintenance
+- REST API development and integration
+- RFID/UHF, ANPR and UVSS system integration
+- Database synchronization, reporting and troubleshooting
+
+</td>
+</tr>
+<tr>
+<td width="25%" valign="top">
+
+**JUL 2022 — JUN 2025**
+
+### Developer
+
+</td>
+<td width="75%" valign="top">
+
+**Sigma eSolution Pvt. Ltd. · Ranchi**
+
+- PHP-based application development
+- Database-driven modules and dashboards
+- JavaScript, jQuery and AJAX integration
+- Testing, deployment and application maintenance
+
+</td>
+</tr>
+</table>
+
+### 🎓 Education
+
+**Bachelor of Technology — Computer Science**  
 RTC Institute of Technology, Ranchi · 2022
 
 ---
 
-## ◈ LET'S CONNECT
-
 <div align="center">
 
-**Have an interesting software project or engineering opportunity? Let's connect.**
+## `06` — LET'S CONNECT
 
-<a href="https://github.com/iamdeepkr"><img src="https://img.shields.io/badge/GitHub-Explore_My_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/iamdeepkr"><img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://iamdeepkr.github.io/"><img src="https://img.shields.io/badge/Portfolio-See_My_Work-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-<a href="mailto:deepakkrsharma998@gmail.com"><img src="https://img.shields.io/badge/Email-Get_In_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+### Have an idea, a technical challenge, or a project to discuss?
+
+I'm interested in backend engineering, enterprise software, API integration, and opportunities to build useful technology.
+
+<a href="https://github.com/iamdeepkr"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/iamdeepkr"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://iamdeepkr.github.io/"><img src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+<a href="mailto:deepakkrsharma998@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 <br/>
 
-*Clean Code. Smart Integrations. Reliable Software.*
+**Clean Code · Smart Integrations · Reliable Software**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:312e81,100:0f172a&height=120&section=footer" alt="Footer banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,40:6D28D9,100:09090B&height=130&section=footer" alt="Profile footer banner"/>
 
 </div>
