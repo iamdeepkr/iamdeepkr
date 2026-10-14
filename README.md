@@ -163,18 +163,22 @@ Applications supporting production planning, inventory, equipment management, an
 ## ◈ GITHUB ANALYTICS
 
 <div align="center">
+  <table>
+    <tr>
+      <td width="50%" align="center" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api?username=iamdeepkr&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&hide_rank=true&include_all_commits=true&card_width=400" width="400" height="180" alt="GitHub Statistics"/>
+      </td>
+      <td width="50%" align="center" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamdeepkr&layout=compact&theme=tokyonight&hide_border=true&hide_title=true&card_width=400&langs_count=5" width="400" height="180" alt="Top Languages"/>
+      </td>
+    </tr>
+  </table>
 
-<a href="https://github.com/iamdeepkr">
-  <img height="180" width="49%" src="https://github-readme-stats.vercel.app/api?username=iamdeepkr&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Statistics"/>
-</a><a href="https://github.com/iamdeepkr">
-  <img height="180" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamdeepkr&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</a>
+  <br/>
 
-<br/><br/>
-
-<img width="80%" src="https://streak-stats.demolab.com?user=iamdeepkr&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
-
+  <img src="https://streak-stats.demolab.com?user=iamdeepkr&theme=tokyonight&hide_border=true" width="80%" alt="GitHub Contribution Streak"/>
 </div>
+
 
 
 ---
