@@ -1,15 +1,10 @@
  <div align="center">
-
-
-
-
+ 
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:312e81,100:0f172a&height=160&section=footer&text=DEEPAK%20KUMAR&fontSize=32&fontColor=FFFFFF&fontAlignY=65&animation=fadeIn"
-  alt="Deepak Kumar - Purple Gradient Footer"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:312e81,100:0f172a&height=280&section=header&text=DEEPAK%20KUMAR&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=Senior%20Software%20Developer%20%7C%20PHP%20%7C%20Laravel%20%7C%20REST%20APIs&descSize=14&descColor=E0E7FF&descAlignY=60&animation=fadeIn"
+  alt="Deepak Kumar - Senior Software Developer"
 />
-
-
 
 
 <a href="https://iamdeepkr.github.io/"><img src="https://img.shields.io/badge/PORTFOLIO-Explore-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
