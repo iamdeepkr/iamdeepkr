@@ -2,11 +2,13 @@
 
 
 
+
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:312e81,100:0f172a&height=120&section=footer"
-  alt="Purple gradient footer banner"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:312e81,100:0f172a&height=160&section=footer&text=DEEPAK%20KUMAR&fontSize=32&fontColor=FFFFFF&fontAlignY=65&animation=fadeIn"
+  alt="Deepak Kumar - Purple Gradient Footer"
 />
+
 
 
 
